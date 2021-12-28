@@ -1,10 +1,9 @@
 oauth 
 client Id
-1006418862786-ogj1vruqe5anmes1cotn9m7ib708j99u.apps.googleusercontent.com
+//add client id
 
 client secret
-EpphivpwZJ3hAbzGIb3f4pwf
-
+//add client secret
 
 
 cuisine code new 
